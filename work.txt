@@ -2,3 +2,4 @@ A
 B
 c
 push D
+home E
